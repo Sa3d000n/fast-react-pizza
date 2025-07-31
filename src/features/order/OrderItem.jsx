@@ -19,3 +19,4 @@ function OrderItem({ item, isLoadingIngredients, ingredients }) {
 }
 
 export default OrderItem;
+
